@@ -1,4 +1,18 @@
-### Hi there 👋
+# About Me 
+My name is Suyash Dayal and I am a Python developer currently residing in New Delhi, India. I specialize in website development using the Django framework and have deployed a couple of website(s) on the Web during my time as a freelancer as well as during my internship at Job Shapers.
+
+### 🌱 I’m currently learning...
+1. Data Structures & Algorithms with their implementation in Python.
+2. How to use Django REST framework to develop REST APIs.
+3. Getting acquainted with Docker/Kubernetes.
+
+### 🔭 I’m currently working on ...
+1. An open source Python package (that is currently not available to public).
+2. Exploring the isort Python package's repository on GitHub with the intention of learning from it and hopefully, contribute to it.
+
+### 📫 How to reach me:
+**Email**: suyashdayal@gmail.com  
+**LinkedIn Profile URL**: https://www.linkedin.com/in/suyash-dayal-126988145/
 
 <!--
 **SuyashD95/SuyashD95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
