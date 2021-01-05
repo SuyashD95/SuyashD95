@@ -1,14 +1,35 @@
 # About Me 
-My name is Suyash Dayal and I am a Python developer currently residing in New Delhi, India. I specialize in website development using the Django framework and have deployed a couple of website(s) on the Web during my time as a freelancer as well as during my internship at Job Shapers.
+My name is Suyash Dayal and I am a Python developer currently residing in New Delhi, India. I specialize in website development using the Django framework and have deployed a couple of website(s) on the Web during my time as a freelancer as well as during my internship at Job Shapers (which lasted from Aug '19 to Mar '20).
 
-### 🌱 I’m currently learning...
-1. Data Structures & Algorithms with their implementation in Python.
-2. How to use Django REST framework to develop REST APIs.
-3. Getting acquainted with Docker/Kubernetes.
+I dropped out of my Computer Science in the final year of my bachelor's degree program in 2017 (due to personal reasons) but rejoined it in Nov, 2020 to finish the remainder of my education after recognizing its importance during my time as working professional as a web developer. 
 
-### 🔭 I’m currently working on ...
+### 🌱 At my college, I'm currently learning about...
+1. Distributed Systems and Cloud Computing
+2. Artificial Intelligence
+3. Automata Theory
+4. Creating Android Apps
+5. Elementary French
+
+### :notebook: I am also learning about...
+1. Linear Algebra (via a certified course from Imperial College of London on Coursera)
+2. Chess Openings and Theory
+
+### :trophy: I recently completed learning about...
+1. How to use Docker in software development (fundamentals)
+2. Data Structures & Algorithms with their implementation in Python.
+3. Created a project using Google Cloud Platform and Docker.
+
+### 🔭 In the future, I want to work on ...
 1. An open source Python package (that is currently not available to public).
 2. Exploring the isort Python package's repository on GitHub with the intention of learning from it and hopefully, contribute to it.
+3. How to use Django REST framework to develop REST APIs.
+4. Learn how to build websites with Flask. 
+5. Learn about Kubernetes.
+
+### :book: I recently read...
+1. *Atomic Habits* by **James Clear**
+2. *The Magic Drum* by **Sudha Murthy**
+3. *If not for Umbridge* by **chris400ad** (a *Harry Potter* fanfiction)
 
 ### 📫 How to reach me:
 **Email**: suyashdayal@gmail.com  
