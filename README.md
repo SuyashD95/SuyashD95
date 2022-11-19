@@ -1,7 +1,7 @@
 # About Me 
 My name is Suyash Dayal and I am a Python developer currently residing in New Delhi, India. I specialize in website development using the Django framework and have deployed a couple of website(s) on the Web during my time as a freelancer as well as during my internship at Job Shapers (which lasted from Aug '19 to Mar '20).
 
-I dropped out of my Computer Science in the final year of my bachelor's degree program in 2017 (due to personal reasons) but rejoined it in Nov, 2020 to finish the remainder of my education after recognizing its importance during my time as working professional as a web developer. 
+I dropped out of my Computer Science in the final year of my bachelor's degree program in 2017 (due to personal reasons) but rejoined it in Nov, 2020 to finish the remainder of my education after recognizing its importance during my time as working professional in the field of software engineering.
 
 ### 🌱 At my college, I'm currently learning about...
 1. Distributed Systems and Cloud Computing
