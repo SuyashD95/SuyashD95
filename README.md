@@ -3,28 +3,15 @@ My name is Suyash Dayal and I am currently working at Netweb Technologies as a T
 
 I dropped out of my Computer Science in the final year of my bachelor's degree program in 2017 (due to personal reasons) but rejoined it in Nov, 2020 to finish the remainder of my education after recognizing its importance during my time as working professional in the field of software engineering.
 
-### 🌱 At my college, I'm currently learning about...
-1. Distributed Systems and Cloud Computing
-2. Artificial Intelligence
-3. Automata Theory
-4. Creating Android Apps
-5. Elementary French
-
-### :notebook: I am also learning about...
-1. Linear Algebra (via a certified course from Imperial College of London on Coursera)
-2. Chess Openings and Theory
-
 ### :trophy: I recently completed learning about...
 1. How to use Docker in software development (fundamentals)
 2. Data Structures & Algorithms with their implementation in Python.
 3. Created a project using Google Cloud Platform and Docker.
 
-### 🔭 In the future, I want to work on ...
-1. An open source Python package (that is currently not available to public).
-2. Exploring the isort Python package's repository on GitHub with the intention of learning from it and hopefully, contribute to it.
-3. How to use Django REST framework to develop REST APIs.
-4. Learn how to build websites with Flask. 
-5. Learn about Kubernetes.
+### 🔭 In the future, I want to ...
+1. Contribute to open source projects.
+2. Learn about Kubernetes.
+3. Work with React.
 
 ### :book: I recently read...
 1. *Atomic Habits* by **James Clear**
