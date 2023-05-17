@@ -1,5 +1,5 @@
 # About Me 
-My name is Suyash Dayal and I am a Python developer currently residing in New Delhi, India. I specialize in website development using the Django framework and have deployed a couple of website(s) on the Web during my time as a freelancer as well as during my internship at Job Shapers (which lasted from Aug '19 to Mar '20).
+My name is Suyash Dayal and I am currently working at Netweb Technologies as a Technical Lead of a Product Development team. I currently residing in New Delhi, India. My primary tech stack includes working with Django framework to build web apps (along with Django REST framework to build APIs). I have primarily worked with SQL databases (MySQL, Postgres) but also have experience of working with MongoDB for data analytics and Celery for creating event pipelines.
 
 I dropped out of my Computer Science in the final year of my bachelor's degree program in 2017 (due to personal reasons) but rejoined it in Nov, 2020 to finish the remainder of my education after recognizing its importance during my time as working professional in the field of software engineering.
 
